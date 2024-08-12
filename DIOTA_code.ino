@@ -5,7 +5,7 @@
 
 // WiFi
 const char *ssid = "cp";     // Enter your WiFi name
-const char *password = "chyepeng"; // Enter WiFi password
+const char *password = "xxxxx"; // Enter WiFi password
 
 // MQTT Broker
 const char *mqtt_broker = "broker.emqx.io";
